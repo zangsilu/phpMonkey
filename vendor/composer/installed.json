@@ -1,0 +1,50 @@
+[
+    {
+        "name": "owner888/phpspider",
+        "version": "v2.0.7",
+        "version_normalized": "2.0.7.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/owner888/phpspider.git",
+            "reference": "7389e1d115ce2c3f59b6a03291a3c6c165d00754"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/owner888/phpspider/7389e1d115ce2c3f59b6a03291a3c6c165d00754.zip",
+            "reference": "7389e1d115ce2c3f59b6a03291a3c6c165d00754",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.5.0"
+        },
+        "suggest": {
+            "ext-pcntl、ext-redis": "For better performance. "
+        },
+        "time": "2017-08-12T08:36:28+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "phpspider\\": "./"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Seatle Yang",
+                "email": "seatle@foxmail.com",
+                "homepage": "http://www.phpspider.org",
+                "role": "Developer"
+            }
+        ],
+        "description": "The PHPSpider Framework.",
+        "homepage": "http://www.phpspider.org",
+        "keywords": [
+            "framework",
+            "phpspider"
+        ]
+    }
+]
