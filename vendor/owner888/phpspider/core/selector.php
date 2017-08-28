@@ -111,7 +111,6 @@ class selector
             //print_r($errors);
             //exit;
         //}
-
         $elements = @self::$xpath->query($selector);
         if ($elements === false)
         {

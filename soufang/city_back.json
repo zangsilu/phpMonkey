@@ -1,0 +1,3235 @@
+{
+  "直辖市": [
+    {
+      "province_name": "直辖市",
+      "city_name": "北京市",
+      "code": ""
+    },
+    {
+      "province_name": "直辖市",
+      "city_name": "上海市",
+      "code": "sh"
+    },
+    {
+      "province_name": "直辖市",
+      "city_name": "天津市",
+      "code": "tj"
+    },
+    {
+      "province_name": "直辖市",
+      "city_name": "重庆市",
+      "code": "cq"
+    }
+  ],
+  "河北": [
+    {
+      "province_name": "河北",
+      "city_name": "邢台市",
+      "code": "xingtai"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "张家口市",
+      "code": "zhangjiakou"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "承德市",
+      "code": "chengde"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "沧州市",
+      "code": "cangzhou"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "张北市",
+      "code": "zhangbei"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "遵化市",
+      "code": "zunhua"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "迁安市",
+      "code": "qianan"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "邯郸市",
+      "code": "hd"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "保定市",
+      "code": "bd"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "衡水市",
+      "code": "hs"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "廊坊市",
+      "code": "lf"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "秦皇岛市",
+      "code": "qhd"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "石家庄市",
+      "code": "sjz"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "唐山市",
+      "code": "ts"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "定州市",
+      "code": "dingzhou"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "辛集市",
+      "code": "xinji"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "滦县市",
+      "code": "luanxian"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "玉田市",
+      "code": "yutian"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "晋州市",
+      "code": "hbjz"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "滦南市",
+      "code": "luannan"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "高碑店市",
+      "code": "gaobeidian"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "乐亭市",
+      "code": "hblt"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "迁西市",
+      "code": "qianxi"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "青龙市",
+      "code": "hbql"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "无极市",
+      "code": "hbwj"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "赵县市",
+      "code": "hbzx"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "元氏市",
+      "code": "hbys"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "文安市",
+      "code": "wenan"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "新乐市",
+      "code": "xinle"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "霸州市",
+      "code": "hbbz"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "昌黎市",
+      "code": "changli"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "平山市",
+      "code": "hbps"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "武安市",
+      "code": "wuan"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "任丘市",
+      "code": "renqiu"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "冀州市",
+      "code": "jz"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "三河市",
+      "code": "hbsh"
+    },
+    {
+      "province_name": "河北",
+      "city_name": "深州市",
+      "code": "hbsz"
+    }
+  ],
+  "山西": [
+    {
+      "province_name": "山西",
+      "city_name": "大同市",
+      "code": "datong"
+    },
+    {
+      "province_name": "山西",
+      "city_name": "阳泉市",
+      "code": "yangquan"
+    },
+    {
+      "province_name": "山西",
+      "city_name": "长治市",
+      "code": "changzhi"
+    },
+    {
+      "province_name": "山西",
+      "city_name": "朔州市",
+      "code": "shuozhou"
+    },
+    {
+      "province_name": "山西",
+      "city_name": "晋中市",
+      "code": "jinzhong"
+    },
+    {
+      "province_name": "山西",
+      "city_name": "忻州市",
+      "code": "xinzhou"
+    },
+    {
+      "province_name": "山西",
+      "city_name": "临汾市",
+      "code": "linfen"
+    },
+    {
+      "province_name": "山西",
+      "city_name": "吕梁市",
+      "code": "lvliang"
+    },
+    {
+      "province_name": "山西",
+      "city_name": "运城市",
+      "code": "yuncheng"
+    },
+    {
+      "province_name": "山西",
+      "city_name": "晋城市",
+      "code": "jc"
+    },
+    {
+      "province_name": "山西",
+      "city_name": "临猗市",
+      "code": "sxly"
+    },
+    {
+      "province_name": "山西",
+      "city_name": "太原市",
+      "code": "taiyuan"
+    },
+    {
+      "province_name": "山西",
+      "city_name": "清徐市",
+      "code": "qingxu"
+    },
+    {
+      "province_name": "山西",
+      "city_name": "阳曲市",
+      "code": "yangqu"
+    },
+    {
+      "province_name": "山西",
+      "city_name": "怀仁市",
+      "code": "huairen"
+    }
+  ],
+  "内蒙古": [
+    {
+      "province_name": "内蒙古",
+      "city_name": "赤峰市",
+      "code": "chifeng"
+    },
+    {
+      "province_name": "内蒙古",
+      "city_name": "乌兰察布市",
+      "code": "wlcb"
+    },
+    {
+      "province_name": "内蒙古",
+      "city_name": "通辽市",
+      "code": "tl"
+    },
+    {
+      "province_name": "内蒙古",
+      "city_name": "阿拉善盟市",
+      "code": "alsm"
+    },
+    {
+      "province_name": "内蒙古",
+      "city_name": "鄂尔多斯市",
+      "code": "erds"
+    },
+    {
+      "province_name": "内蒙古",
+      "city_name": "包头市",
+      "code": "bt"
+    },
+    {
+      "province_name": "内蒙古",
+      "city_name": "乌海市",
+      "code": "wuhai"
+    },
+    {
+      "province_name": "内蒙古",
+      "city_name": "锡林郭勒盟市",
+      "code": "xlglm"
+    },
+    {
+      "province_name": "内蒙古",
+      "city_name": "兴安盟市",
+      "code": "xam"
+    },
+    {
+      "province_name": "内蒙古",
+      "city_name": "巴彦淖尔市",
+      "code": "byne"
+    },
+    {
+      "province_name": "内蒙古",
+      "city_name": "海拉尔市",
+      "code": "hailaer"
+    },
+    {
+      "province_name": "内蒙古",
+      "city_name": "呼伦贝尔市",
+      "code": "hlbe"
+    },
+    {
+      "province_name": "内蒙古",
+      "city_name": "呼和浩特市",
+      "code": "nm"
+    },
+    {
+      "province_name": "内蒙古",
+      "city_name": "锡林浩特市",
+      "code": "xilinhaote"
+    }
+  ],
+  "辽宁": [
+    {
+      "province_name": "辽宁",
+      "city_name": "抚顺市",
+      "code": "fushun"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "本溪市",
+      "code": "benxi"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "丹东市",
+      "code": "dandong"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "锦州市",
+      "code": "jinzhou"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "阜新市",
+      "code": "fuxin"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "辽阳市",
+      "code": "liaoyang"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "盘锦市",
+      "code": "panjin"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "铁岭市",
+      "code": "tieling"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "朝阳市",
+      "code": "chaoyang"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "葫芦岛市",
+      "code": "huludao"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "营口市",
+      "code": "yk"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "庄河市",
+      "code": "lnzh"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "普兰店市",
+      "code": "pulandian"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "鞍山市",
+      "code": "anshan"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "大连市",
+      "code": "dl"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "沈阳市",
+      "code": "sy"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "瓦房店市",
+      "code": "wafangdian"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "东港市",
+      "code": "donggang"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "凤城市",
+      "code": "fengcheng"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "新民市",
+      "code": "xinmin"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "辽中市",
+      "code": "liaozhong"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "法库市",
+      "code": "faku"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "康平市",
+      "code": "kangping"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "海城市",
+      "code": "haicheng"
+    },
+    {
+      "province_name": "辽宁",
+      "city_name": "台安市",
+      "code": "lnta"
+    }
+  ],
+  "吉林": [
+    {
+      "province_name": "吉林",
+      "city_name": "四平市",
+      "code": "siping"
+    },
+    {
+      "province_name": "吉林",
+      "city_name": "辽源市",
+      "code": "liaoyuan"
+    },
+    {
+      "province_name": "吉林",
+      "city_name": "通化市",
+      "code": "tonghua"
+    },
+    {
+      "province_name": "吉林",
+      "city_name": "白山市",
+      "code": "baishan"
+    },
+    {
+      "province_name": "吉林",
+      "city_name": "松原市",
+      "code": "songyuan"
+    },
+    {
+      "province_name": "吉林",
+      "city_name": "白城市",
+      "code": "baicheng"
+    },
+    {
+      "province_name": "吉林",
+      "city_name": "延边市",
+      "code": "yanbian"
+    },
+    {
+      "province_name": "吉林",
+      "city_name": "长春市",
+      "code": "changchun"
+    },
+    {
+      "province_name": "吉林",
+      "city_name": "吉林市",
+      "code": "jl"
+    },
+    {
+      "province_name": "吉林",
+      "city_name": "农安市",
+      "code": "nongan"
+    },
+    {
+      "province_name": "吉林",
+      "city_name": "德惠市",
+      "code": "dehui"
+    },
+    {
+      "province_name": "吉林",
+      "city_name": "榆树市",
+      "code": "jlys"
+    },
+    {
+      "province_name": "吉林",
+      "city_name": "公主岭市",
+      "code": "gongzhuling"
+    },
+    {
+      "province_name": "吉林",
+      "city_name": "桦甸市",
+      "code": "huadian"
+    }
+  ],
+
+  "黑龙江": [
+    {
+      "province_name": "黑龙江",
+      "city_name": "齐齐哈尔市",
+      "code": "qiqihaer"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "鸡西市",
+      "code": "jixi"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "鹤岗市",
+      "code": "hegang"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "双鸭山市",
+      "code": "shuangyashan"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "伊春市",
+      "code": "hljyichun"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "佳木斯市",
+      "code": "jiamusi"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "七台河市",
+      "code": "qitaihe"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "牡丹江市",
+      "code": "mudanjiang"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "黑河市",
+      "code": "heihe"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "绥化市",
+      "code": "suihua"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "大兴安岭市",
+      "code": "dxal"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "大庆市",
+      "code": "daqing"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "哈尔滨市",
+      "code": "hrb"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "肇东市",
+      "code": "zhaodong"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "宾县市",
+      "code": "binxian"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "安达市",
+      "code": "anda"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "巴彦市",
+      "code": "bayan"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "尚志市",
+      "code": "shangzhi"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "五常市",
+      "code": "wuchang"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "依兰市",
+      "code": "yilan"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "肇源市",
+      "code": "zhaoyuan"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "肇州市",
+      "code": "zhaozhou"
+    },
+    {
+      "province_name": "黑龙江",
+      "city_name": "海林市",
+      "code": "hailin"
+    }
+  ],
+  "江苏": [
+    {
+      "province_name": "江苏",
+      "city_name": "宜兴市",
+      "code": "yixing"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "沭阳市",
+      "code": "shuyang"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "张家港市",
+      "code": "zjg"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "宿迁市",
+      "code": "sq"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "太仓市",
+      "code": "tc"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "邳州市",
+      "code": "pizhou"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "兴化市",
+      "code": "xinghua"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "如皋市",
+      "code": "rugao"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "溧阳市",
+      "code": "liyang"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "泰兴市",
+      "code": "taixing"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "东台市",
+      "code": "dongtai"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "启东市",
+      "code": "qidong"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "江都市",
+      "code": "jiangdu"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "海门市",
+      "code": "haimen"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "新沂市",
+      "code": "xinyi"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "高邮市",
+      "code": "gaoyou"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "靖江市",
+      "code": "jingjiang"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "常熟市",
+      "code": "changshu"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "常州市",
+      "code": "cz"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "淮安市",
+      "code": "huaian"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "江阴市",
+      "code": "jy"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "昆山市",
+      "code": "ks"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "连云港市",
+      "code": "lyg"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "南京市",
+      "code": "nanjing"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "南通市",
+      "code": "nt"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "苏州市",
+      "code": "suzhou"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "泰州市",
+      "code": "taizhou"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "无锡市",
+      "code": "wuxi"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "吴江市",
+      "code": "wj"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "徐州市",
+      "code": "xz"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "盐城市",
+      "code": "yancheng"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "扬州市",
+      "code": "yz"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "镇江市",
+      "code": "zhenjiang"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "如东市",
+      "code": "rudong"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "仪征市",
+      "code": "yizheng"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "金坛市",
+      "code": "jintan"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "睢宁市",
+      "code": "jssn"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "丰县市",
+      "code": "jsfx"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "沛县市",
+      "code": "peixian"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "宝应市",
+      "code": "baoying"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "句容市",
+      "code": "jr"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "阜宁市",
+      "code": "funing"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "高淳市",
+      "code": "njgc"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "姜堰市",
+      "code": "jiangyan"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "泉山市",
+      "code": "quanshan"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "铜山市",
+      "code": "tongshan"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "玉山市",
+      "code": "ksys"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "海安市",
+      "code": "haian"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "金湖市",
+      "code": "jinhu"
+    },
+    {
+      "province_name": "江苏",
+      "city_name": "东海市",
+      "code": "donghai"
+    }
+  ],
+  "浙江": [
+    {
+      "province_name": "浙江",
+      "city_name": "衢州市",
+      "code": "quzhou"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "长兴市",
+      "code": "changxing"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "德清市",
+      "code": "deqing"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "台州市",
+      "code": "tz"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "瑞安市",
+      "code": "ruian"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "丽水市",
+      "code": "ls"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "乐清市",
+      "code": "yueqing"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "海宁市",
+      "code": "haining"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "温岭市",
+      "code": "wenling"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "临海市",
+      "code": "linhai"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "诸暨市",
+      "code": "zhuji"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "慈溪市",
+      "code": "cixi"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "余姚市",
+      "code": "yuyao"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "桐乡市",
+      "code": "tongxiang"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "上虞市",
+      "code": "shangyu"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "平湖市",
+      "code": "pinghu"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "富阳市",
+      "code": "zjfy"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "宁海市",
+      "code": "ninghai"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "奉化市",
+      "code": "fenghua"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "杭州市",
+      "code": "hz"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "湖州市",
+      "code": "huzhou"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "嘉兴市",
+      "code": "jx"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "金华市",
+      "code": "jh"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "宁波市",
+      "code": "nb"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "绍兴市",
+      "code": "shaoxing"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "温州市",
+      "code": "wz"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "舟山市",
+      "code": "zhoushan"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "临安市",
+      "code": "linan"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "建德市",
+      "code": "jiande"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "桐庐市",
+      "code": "zjtl"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "象山市",
+      "code": "zjxs"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "玉环市",
+      "code": "yuhuan"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "淳安市",
+      "code": "chunan"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "镇海市",
+      "code": "zhenhai"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "安吉市",
+      "code": "aj"
+    },
+    {
+      "province_name": "浙江",
+      "city_name": "海盐市",
+      "code": "haiyan"
+    }
+  ],
+  "安徽": [
+    {
+      "province_name": "安徽",
+      "city_name": "淮北市",
+      "code": "huaibei"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "铜陵市",
+      "code": "tongling"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "安庆市",
+      "code": "anqing"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "黄山市",
+      "code": "huangshan"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "滁州市",
+      "code": "chuzhou"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "阜阳市",
+      "code": "fuyang"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "宿州市",
+      "code": "ahsuzhou"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "巢湖市",
+      "code": "chaohu"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "六安市",
+      "code": "luan"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "亳州市",
+      "code": "bozhou"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "池州市",
+      "code": "chizhou"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "宣城市",
+      "code": "xuancheng"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "霍邱市",
+      "code": "huoqiu"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "桐城市",
+      "code": "tongcheng"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "蚌埠市",
+      "code": "bengbu"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "合肥市",
+      "code": "hf"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "淮南市",
+      "code": "huainan"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "马鞍山市",
+      "code": "mas"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "芜湖市",
+      "code": "wuhu"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "肥西市",
+      "code": "feixi"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "庐江市",
+      "code": "lujiang"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "肥东市",
+      "code": "feidong"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "当涂市",
+      "code": "dangtu"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "长丰市",
+      "code": "ahcf"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "固镇市",
+      "code": "guzhen"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "怀远市",
+      "code": "huaiyuan"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "五河市",
+      "code": "wuhe"
+    },
+    {
+      "province_name": "安徽",
+      "city_name": "繁昌市",
+      "code": "fanchang"
+    }
+  ],
+  "福建": [
+    {
+      "province_name": "福建",
+      "city_name": "三明市",
+      "code": "sanming"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "南平市",
+      "code": "nanping"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "龙岩市",
+      "code": "longyan"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "宁德市",
+      "code": "ningde"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "福清市",
+      "code": "fq"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "平潭市",
+      "code": "pingtan"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "南安市",
+      "code": "nanan"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "龙海市",
+      "code": "longhai"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "惠安市",
+      "code": "huian"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "长乐市",
+      "code": "changle"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "石狮市",
+      "code": "shishi"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "福州市",
+      "code": "fz"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "莆田市",
+      "code": "putian"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "泉州市",
+      "code": "qz"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "厦门市",
+      "code": "xm"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "漳州市",
+      "code": "zhangzhou"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "安溪市",
+      "code": "fjax"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "连江市",
+      "code": "lianjiang"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "永春市",
+      "code": "yongchun"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "罗源市",
+      "code": "luoyuan"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "闽清市",
+      "code": "minqing"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "泉港市",
+      "code": "quangang"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "永泰市",
+      "code": "yongtai"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "福安市",
+      "code": "fuan"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "德化市",
+      "code": "dh"
+    },
+    {
+      "province_name": "福建",
+      "city_name": "永安市",
+      "code": "ya"
+    }
+  ],
+
+  "江西": [
+    {
+      "province_name": "江西",
+      "city_name": "景德镇市",
+      "code": "jingdezhen"
+    },
+    {
+      "province_name": "江西",
+      "city_name": "萍乡市",
+      "code": "pingxiang"
+    },
+    {
+      "province_name": "江西",
+      "city_name": "新余市",
+      "code": "xinyu"
+    },
+    {
+      "province_name": "江西",
+      "city_name": "鹰潭市",
+      "code": "yingtan"
+    },
+    {
+      "province_name": "江西",
+      "city_name": "吉安市",
+      "code": "jian"
+    },
+    {
+      "province_name": "江西",
+      "city_name": "宜春市",
+      "code": "yichun"
+    },
+    {
+      "province_name": "江西",
+      "city_name": "抚州市",
+      "code": "jxfuzhou"
+    },
+    {
+      "province_name": "江西",
+      "city_name": "上饶市",
+      "code": "shangrao"
+    },
+    {
+      "province_name": "江西",
+      "city_name": "赣州市",
+      "code": "ganzhou"
+    },
+    {
+      "province_name": "江西",
+      "city_name": "九江市",
+      "code": "jiujiang"
+    },
+    {
+      "province_name": "江西",
+      "city_name": "南昌市",
+      "code": "nc"
+    },
+    {
+      "province_name": "江西",
+      "city_name": "进贤市",
+      "code": "jinxian"
+    },
+    {
+      "province_name": "江西",
+      "city_name": "新建市",
+      "code": "xinjian"
+    },
+    {
+      "province_name": "江西",
+      "city_name": "瑞金市",
+      "code": "ruijin"
+    },
+    {
+      "province_name": "江西",
+      "city_name": "丰城市",
+      "code": "jxfc"
+    },
+    {
+      "province_name": "江西",
+      "city_name": "靖安市",
+      "code": "jxja"
+    }
+  ],
+  "山东": [
+    {
+      "province_name": "山东",
+      "city_name": "枣庄市",
+      "code": "zaozhuang"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "济宁市",
+      "code": "jining"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "泰安市",
+      "code": "taian"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "莱芜市",
+      "code": "laiwu"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "德州市",
+      "code": "dz"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "日照市",
+      "code": "rz"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "菏泽市",
+      "code": "heze"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "聊城市",
+      "code": "lc"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "临沂市",
+      "code": "linyi"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "东营市",
+      "code": "dy"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "章丘市",
+      "code": "zhangqiu"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "诸城市",
+      "code": "zhucheng"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "招远市",
+      "code": "zy"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "滕州市",
+      "code": "tengzhou"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "寿光市",
+      "code": "sg"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "平度市",
+      "code": "pingdu"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "新泰市",
+      "code": "xintai"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "邹城市",
+      "code": "zoucheng"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "肥城市",
+      "code": "feicheng"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "莱州市",
+      "code": "laizhou"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "邹平市",
+      "code": "zouping"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "胶南市",
+      "code": "jiaonan"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "龙口市",
+      "code": "longkou"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "淄博市",
+      "code": "zb"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "高密市",
+      "code": "gaomi"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "滨州市",
+      "code": "binzhou"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "济南市",
+      "code": "jn"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "青岛市",
+      "code": "qd"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "威海市",
+      "code": "weihai"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "潍坊市",
+      "code": "wf"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "烟台市",
+      "code": "yt"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "即墨市",
+      "code": "jimo"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "莱西市",
+      "code": "laixi"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "昌邑市",
+      "code": "changyi"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "广饶市",
+      "code": "guangrao"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "蓬莱市",
+      "code": "penglai"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "安丘市",
+      "code": "anqiu"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "青州市",
+      "code": "qingzhou"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "临朐市",
+      "code": "linqu"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "济阳市",
+      "code": "sdjy"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "商河市",
+      "code": "sdsh"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "昌乐市",
+      "code": "sdcl"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "莱阳市",
+      "code": "laiyang"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "平阴市",
+      "code": "sdpy"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "临清市",
+      "code": "linqing"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "栖霞市",
+      "code": "qixia"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "海阳市",
+      "code": "haiyang"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "长岛市",
+      "code": "ytcd"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "长清市",
+      "code": "jncq"
+    },
+    {
+      "province_name": "山东",
+      "city_name": "胶州市",
+      "code": "jiaozhou"
+    }
+  ],
+  "河南": [
+    {
+      "province_name": "河南",
+      "city_name": "开封市",
+      "code": "kaifeng"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "平顶山市",
+      "code": "pingdingshan"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "安阳市",
+      "code": "anyang"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "鹤壁市",
+      "code": "hebi"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "焦作市",
+      "code": "jiaozuo"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "濮阳市",
+      "code": "puyang"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "许昌市",
+      "code": "xuchang"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "漯河市",
+      "code": "luohe"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "三门峡市",
+      "code": "sanmenxia"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "南阳市",
+      "code": "nanyang"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "商丘市",
+      "code": "shangqiu"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "信阳市",
+      "code": "xinyang"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "周口市",
+      "code": "zhoukou"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "驻马店市",
+      "code": "zhumadian"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "新乡市",
+      "code": "xx"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "禹州市",
+      "code": "hnyz"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "长葛市",
+      "code": "changge"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "鄢陵市",
+      "code": "yanling"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "巩义市",
+      "code": "gongyi"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "济源市",
+      "code": "jiyuan"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "洛阳市",
+      "code": "ly"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "郑州市",
+      "code": "zz"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "新郑市",
+      "code": "xinzheng"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "荥阳市",
+      "code": "xingyang"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "伊川市",
+      "code": "yichuan"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "偃师市",
+      "code": "yanshi"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "中牟市",
+      "code": "zhongmou"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "登封市",
+      "code": "dengfeng"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "新安市",
+      "code": "hnxa"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "宜阳市",
+      "code": "hnyy"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "新密市",
+      "code": "xinmi"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "嵩县市",
+      "code": "songxian"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "洛宁市",
+      "code": "luoning"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "孟津市",
+      "code": "mengjin"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "汝阳市",
+      "code": "ruyang"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "邓州市",
+      "code": "dengzhou"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "兰考市",
+      "code": "lankao"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "汝州市",
+      "code": "ruzhou"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "栾川市",
+      "code": "luanchuan"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "永城市",
+      "code": "yongcheng"
+    },
+    {
+      "province_name": "河南",
+      "city_name": "舞钢市",
+      "code": "wg"
+    }
+  ],
+  "湖北": [
+    {
+      "province_name": "湖北",
+      "city_name": "十堰市",
+      "code": "shiyan"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "鄂州市",
+      "code": "ezhou"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "荆门市",
+      "code": "jingmen"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "孝感市",
+      "code": "xiaogan"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "荆州市",
+      "code": "jingzhou"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "黄冈市",
+      "code": "huanggang"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "咸宁市",
+      "code": "xianning"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "随州市",
+      "code": "suizhou"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "恩施市",
+      "code": "enshi"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "仙桃市",
+      "code": "xiantao"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "神农架市",
+      "code": "shennongjia"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "天门市",
+      "code": "tianmen"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "潜江市",
+      "code": "qj"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "黄石市",
+      "code": "huangshi"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "武汉市",
+      "code": "wuhan"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "襄阳市",
+      "code": "xiangyang"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "宜昌市",
+      "code": "yc"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "当阳市",
+      "code": "dangyang"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "宜都市",
+      "code": "yidu"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "枝江市",
+      "code": "zhijiang"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "汉南市",
+      "code": "whhn"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "京山市",
+      "code": "hbjs"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "钟祥市",
+      "code": "zhongxiang"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "老河口市",
+      "code": "lhk"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "宜城市",
+      "code": "hbyc"
+    },
+    {
+      "province_name": "湖北",
+      "city_name": "枣阳市",
+      "code": "hbzy"
+    }
+  ],
+  "湖南": [
+    {
+      "province_name": "湖南",
+      "city_name": "邵阳市",
+      "code": "shaoyang"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "张家界市",
+      "code": "zhangjiajie"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "益阳市",
+      "code": "yiyang"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "郴州市",
+      "code": "chenzhou"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "永州市",
+      "code": "yongzhou"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "怀化市",
+      "code": "huaihua"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "娄底市",
+      "code": "loudi"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "湘西市",
+      "code": "xiangxi"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "长沙市",
+      "code": "cs"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "常德市",
+      "code": "changde"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "衡阳市",
+      "code": "hengyang"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "湘潭市",
+      "code": "xt"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "岳阳市",
+      "code": "yueyang"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "株洲市",
+      "code": "zhuzhou"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "浏阳市",
+      "code": "liuyang"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "宁乡市",
+      "code": "ningxiang"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "醴陵市",
+      "code": "liling"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "湘乡市",
+      "code": "xiangxiang"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "攸县市",
+      "code": "youxian"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "望城市",
+      "code": "cswc"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "耒阳市",
+      "code": "leiyang"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "常宁市",
+      "code": "cn"
+    },
+    {
+      "province_name": "湖南",
+      "city_name": "韶山市",
+      "code": "ss"
+    }
+  ],
+
+  "广东": [
+    {
+      "province_name": "广东",
+      "city_name": "韶关市",
+      "code": "shaoguan"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "汕尾市",
+      "code": "shanwei"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "河源市",
+      "code": "heyuan"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "潮州市",
+      "code": "chaozhou"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "揭阳市",
+      "code": "jieyang"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "云浮市",
+      "code": "yunfu"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "顺德市",
+      "code": "shunde"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "阳春市",
+      "code": "yangchun"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "开平市",
+      "code": "kaiping"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "东莞市",
+      "code": "dg"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "佛山市",
+      "code": "fs"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "广州市",
+      "code": "gz"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "惠州市",
+      "code": "huizhou"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "江门市",
+      "code": "jm"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "茂名市",
+      "code": "maoming"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "梅州市",
+      "code": "meizhou"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "清远市",
+      "code": "qingyuan"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "汕头市",
+      "code": "st"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "深圳市",
+      "code": "sz"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "阳江市",
+      "code": "yangjiang"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "湛江市",
+      "code": "zj"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "肇庆市",
+      "code": "zhaoqing"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "中山市",
+      "code": "zs"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "珠海市",
+      "code": "zh"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "台山市",
+      "code": "taishan"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "恩平市",
+      "code": "enping"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "惠东市",
+      "code": "huidong"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "龙门市",
+      "code": "gdlm"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "博罗市",
+      "code": "boluo"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "鹤山市",
+      "code": "heshan"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "普宁市",
+      "code": "puning"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "罗定市",
+      "code": "ld"
+    },
+    {
+      "province_name": "广东",
+      "city_name": "新丰市",
+      "code": "xf"
+    }
+  ],
+  "广西": [
+    {
+      "province_name": "广西",
+      "city_name": "梧州市",
+      "code": "wuzhou"
+    },
+    {
+      "province_name": "广西",
+      "city_name": "钦州市",
+      "code": "qinzhou"
+    },
+    {
+      "province_name": "广西",
+      "city_name": "百色市",
+      "code": "baise"
+    },
+    {
+      "province_name": "广西",
+      "city_name": "贺州市",
+      "code": "hezhou"
+    },
+    {
+      "province_name": "广西",
+      "city_name": "河池市",
+      "code": "hechi"
+    },
+    {
+      "province_name": "广西",
+      "city_name": "来宾市",
+      "code": "laibin"
+    },
+    {
+      "province_name": "广西",
+      "city_name": "崇左市",
+      "code": "chongzuo"
+    },
+    {
+      "province_name": "广西",
+      "city_name": "玉林市",
+      "code": "yl"
+    },
+    {
+      "province_name": "广西",
+      "city_name": "北海市",
+      "code": "bh"
+    },
+    {
+      "province_name": "广西",
+      "city_name": "防城港市",
+      "code": "fangchenggang"
+    },
+    {
+      "province_name": "广西",
+      "city_name": "贵港市",
+      "code": "guigang"
+    },
+    {
+      "province_name": "广西",
+      "city_name": "桂林市",
+      "code": "guilin"
+    },
+    {
+      "province_name": "广西",
+      "city_name": "柳州市",
+      "code": "liuzhou"
+    },
+    {
+      "province_name": "广西",
+      "city_name": "南宁市",
+      "code": "nn"
+    },
+    {
+      "province_name": "广西",
+      "city_name": "宾阳市",
+      "code": "gxby"
+    },
+    {
+      "province_name": "广西",
+      "city_name": "横县市",
+      "code": "hengxian"
+    },
+    {
+      "province_name": "广西",
+      "city_name": "邕宁市",
+      "code": "yongning"
+    }
+  ],
+  "重庆": [
+    {
+      "province_name": "重庆",
+      "city_name": "长寿市",
+      "code": "changshou"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "江津市",
+      "code": "jiangjin"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "永川市",
+      "code": "yongchuan"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "重庆市",
+      "code": "cq"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "璧山市",
+      "code": "bishan"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "大足市",
+      "code": "dazu"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "垫江市",
+      "code": "dianjiang"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "奉节市",
+      "code": "fengjie"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "开县市",
+      "code": "kaixian"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "梁平市",
+      "code": "liangping"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "荣昌市",
+      "code": "rongchang"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "石柱市",
+      "code": "shizhu"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "潼南市",
+      "code": "tongnan"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "武隆市",
+      "code": "wulong"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "巫山市",
+      "code": "wushan"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "云阳市",
+      "code": "yunyang"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "忠县市",
+      "code": "zhongxian"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "铜梁市",
+      "code": "tongliang"
+    },
+    {
+      "province_name": "重庆",
+      "city_name": "丰都市",
+      "code": "fengdu"
+    }
+  ],
+  "四川": [
+    {
+      "province_name": "四川",
+      "city_name": "自贡市",
+      "code": "zigong"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "攀枝花市",
+      "code": "panzhihua"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "广元市",
+      "code": "guangyuan"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "宜宾市",
+      "code": "yibin"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "广安市",
+      "code": "guangan"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "达州市",
+      "code": "dazhou"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "雅安市",
+      "code": "yaan"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "巴中市",
+      "code": "bazhong"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "资阳市",
+      "code": "ziyang"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "凉山市",
+      "code": "liangshan"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "阿坝州市",
+      "code": "abazhou"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "涪陵市",
+      "code": "fuling"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "黔江市",
+      "code": "qianjiang"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "万州市",
+      "code": "wanzhou"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "綦江市",
+      "code": "qijiang"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "合川市",
+      "code": "hechuan"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "甘孜市",
+      "code": "ganzi"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "成都市",
+      "code": "cd"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "德阳市",
+      "code": "deyang"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "乐山市",
+      "code": "leshan"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "泸州市",
+      "code": "luzhou"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "眉山市",
+      "code": "meishan"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "绵阳市",
+      "code": "mianyang"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "内江市",
+      "code": "neijiang"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "南充市",
+      "code": "nanchong"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "遂宁市",
+      "code": "suining"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "彭州市",
+      "code": "pengzhou"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "金堂市",
+      "code": "scjt"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "邛崃市",
+      "code": "qionglai"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "崇州市",
+      "code": "chongzhou"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "大邑市",
+      "code": "dayi"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "简阳市",
+      "code": "jianyang"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "都江堰市",
+      "code": "dujiangyan"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "新津市",
+      "code": "xinjin"
+    },
+    {
+      "province_name": "四川",
+      "city_name": "峨眉山市",
+      "code": "emeishan"
+    }
+  ],
+  "贵州": [
+    {
+      "province_name": "贵州",
+      "city_name": "六盘水市",
+      "code": "lps"
+    },
+    {
+      "province_name": "贵州",
+      "city_name": "遵义市",
+      "code": "zunyi"
+    },
+    {
+      "province_name": "贵州",
+      "city_name": "安顺市",
+      "code": "anshun"
+    },
+    {
+      "province_name": "贵州",
+      "city_name": "铜仁市",
+      "code": "tongren"
+    },
+    {
+      "province_name": "贵州",
+      "city_name": "黔西南市",
+      "code": "qianxinan"
+    },
+    {
+      "province_name": "贵州",
+      "city_name": "毕节市",
+      "code": "bijie"
+    },
+    {
+      "province_name": "贵州",
+      "city_name": "黔东南市",
+      "code": "qdn"
+    },
+    {
+      "province_name": "贵州",
+      "city_name": "黔南市",
+      "code": "qiannan"
+    },
+    {
+      "province_name": "贵州",
+      "city_name": "贵阳市",
+      "code": "gy"
+    },
+    {
+      "province_name": "贵州",
+      "city_name": "开阳市",
+      "code": "kaiyang"
+    },
+    {
+      "province_name": "贵州",
+      "city_name": "修文市",
+      "code": "xiuwen"
+    },
+    {
+      "province_name": "贵州",
+      "city_name": "清镇市",
+      "code": "qingzhen"
+    }
+  ],
+
+  "云南": [
+    {
+      "province_name": "云南",
+      "city_name": "玉溪市",
+      "code": "yuxi"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "保山市",
+      "code": "baoshan"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "昭通市",
+      "code": "zhaotong"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "普洱市",
+      "code": "puer"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "临沧市",
+      "code": "lincang"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "楚雄市",
+      "code": "chuxiong"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "红河市",
+      "code": "honghe"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "文山市",
+      "code": "wenshan"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "西双版纳市",
+      "code": "xishuangbanna"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "大理市",
+      "code": "dali"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "德宏市",
+      "code": "dehong"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "迪庆市",
+      "code": "diqing"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "怒江市",
+      "code": "nujiang"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "昆明市",
+      "code": "km"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "丽江市",
+      "code": "lijiang"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "曲靖市",
+      "code": "qujing"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "安宁市",
+      "code": "anning"
+    },
+    {
+      "province_name": "云南",
+      "city_name": "宜良市",
+      "code": "ynyl"
+    }
+  ],
+  "海南": [
+    {
+      "province_name": "海南",
+      "city_name": "三沙市",
+      "code": "sansha"
+    },
+    {
+      "province_name": "海南",
+      "city_name": "五指山市",
+      "code": "wuzhishan"
+    },
+    {
+      "province_name": "海南",
+      "city_name": "海南市",
+      "code": "hn"
+    },
+    {
+      "province_name": "海南",
+      "city_name": "三亚市",
+      "code": "sanya"
+    },
+    {
+      "province_name": "海南",
+      "city_name": "东方市",
+      "code": "dongfang"
+    },
+    {
+      "province_name": "海南",
+      "city_name": "儋州市",
+      "code": "danzhou"
+    },
+    {
+      "province_name": "海南",
+      "city_name": "万宁市",
+      "code": "wanning"
+    }
+  ],
+  "陕西": [
+    {
+      "province_name": "陕西",
+      "city_name": "铜川市",
+      "code": "tongchuan"
+    },
+    {
+      "province_name": "陕西",
+      "city_name": "渭南市",
+      "code": "weinan"
+    },
+    {
+      "province_name": "陕西",
+      "city_name": "延安市",
+      "code": "yanan"
+    },
+    {
+      "province_name": "陕西",
+      "city_name": "汉中市",
+      "code": "hanzhong"
+    },
+    {
+      "province_name": "陕西",
+      "city_name": "榆林市",
+      "code": "sxyulin"
+    },
+    {
+      "province_name": "陕西",
+      "city_name": "安康市",
+      "code": "ankang"
+    },
+    {
+      "province_name": "陕西",
+      "city_name": "商洛市",
+      "code": "shangluo"
+    },
+    {
+      "province_name": "陕西",
+      "city_name": "宝鸡市",
+      "code": "baoji"
+    },
+    {
+      "province_name": "陕西",
+      "city_name": "西安市",
+      "code": "xian"
+    },
+    {
+      "province_name": "陕西",
+      "city_name": "咸阳市",
+      "code": "xianyang"
+    },
+    {
+      "province_name": "陕西",
+      "city_name": "蓝田市",
+      "code": "lantian"
+    },
+    {
+      "province_name": "陕西",
+      "city_name": "户县市",
+      "code": "huxian"
+    },
+    {
+      "province_name": "陕西",
+      "city_name": "周至市",
+      "code": "zhouzhi"
+    },
+    {
+      "province_name": "陕西",
+      "city_name": "高陵市",
+      "code": "gaoling"
+    }
+  ],
+  "甘肃": [
+    {
+      "province_name": "甘肃",
+      "city_name": "嘉峪关市",
+      "code": "jiayuguan"
+    },
+    {
+      "province_name": "甘肃",
+      "city_name": "金昌市",
+      "code": "jinchang"
+    },
+    {
+      "province_name": "甘肃",
+      "city_name": "白银市",
+      "code": "baiyin"
+    },
+    {
+      "province_name": "甘肃",
+      "city_name": "天水市",
+      "code": "tianshui"
+    },
+    {
+      "province_name": "甘肃",
+      "city_name": "武威市",
+      "code": "wuwei"
+    },
+    {
+      "province_name": "甘肃",
+      "city_name": "张掖市",
+      "code": "zhangye"
+    },
+    {
+      "province_name": "甘肃",
+      "city_name": "平凉市",
+      "code": "pingliang"
+    },
+    {
+      "province_name": "甘肃",
+      "city_name": "酒泉市",
+      "code": "jiuquan"
+    },
+    {
+      "province_name": "甘肃",
+      "city_name": "定西市",
+      "code": "dingxi"
+    },
+    {
+      "province_name": "甘肃",
+      "city_name": "陇南市",
+      "code": "longnan"
+    },
+    {
+      "province_name": "甘肃",
+      "city_name": "甘南市",
+      "code": "gannan"
+    },
+    {
+      "province_name": "甘肃",
+      "city_name": "临夏市",
+      "code": "linxia"
+    },
+    {
+      "province_name": "甘肃",
+      "city_name": "兰州市",
+      "code": "lz"
+    },
+    {
+      "province_name": "甘肃",
+      "city_name": "庆阳市",
+      "code": "qingyang"
+    },
+    {
+      "province_name": "甘肃",
+      "city_name": "永登市",
+      "code": "yongdeng"
+    },
+    {
+      "province_name": "甘肃",
+      "city_name": "榆中市",
+      "code": "yuzhong"
+    }
+  ],
+  "宁夏": [
+    {
+      "province_name": "宁夏",
+      "city_name": "石嘴山市",
+      "code": "shizuishan"
+    },
+    {
+      "province_name": "宁夏",
+      "city_name": "吴忠市",
+      "code": "wuzhong"
+    },
+    {
+      "province_name": "宁夏",
+      "city_name": "固原市",
+      "code": "guyuan"
+    },
+    {
+      "province_name": "宁夏",
+      "city_name": "中卫市",
+      "code": "zhongwei"
+    },
+    {
+      "province_name": "宁夏",
+      "city_name": "银川市",
+      "code": "yinchuan"
+    }
+  ],
+
+  "青海": [
+    {
+      "province_name": "青海",
+      "city_name": "玉树市",
+      "code": "yushu"
+    },
+    {
+      "province_name": "青海",
+      "city_name": "果洛市",
+      "code": "guoluo"
+    },
+    {
+      "province_name": "青海",
+      "city_name": "黄南市",
+      "code": "huangnan"
+    },
+    {
+      "province_name": "青海",
+      "city_name": "海西市",
+      "code": "haixi"
+    },
+    {
+      "province_name": "青海",
+      "city_name": "海东市",
+      "code": "haidong"
+    },
+    {
+      "province_name": "青海",
+      "city_name": "海北市",
+      "code": "haibei"
+    },
+    {
+      "province_name": "青海",
+      "city_name": "西宁市",
+      "code": "xn"
+    }
+  ],
+  "新疆": [
+    {
+      "province_name": "新疆",
+      "city_name": "克拉玛依市",
+      "code": "kelamayi"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "阿拉尔市",
+      "code": "alaer"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "博尔塔拉市",
+      "code": "betl"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "吐鲁番市",
+      "code": "tulufan"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "喀什市",
+      "code": "kashi"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "图木舒克市",
+      "code": "tmsk"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "五家渠市",
+      "code": "wujiaqu"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "哈密市",
+      "code": "hami"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "和田市",
+      "code": "hetian"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "库尔勒市",
+      "code": "kuerle"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "克孜勒苏市",
+      "code": "kzls"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "阿克苏市",
+      "code": "akesu"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "巴州市",
+      "code": "bazhou"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "昌吉市",
+      "code": "changji"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "石河子市",
+      "code": "shihezi"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "乌鲁木齐市",
+      "code": "xj"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "伊犁市",
+      "code": "yili"
+    },
+    {
+      "province_name": "新疆",
+      "city_name": "奎屯市",
+      "code": "kuitun"
+    }
+  ],
+  "其他": [
+    {
+      "province_name": "其他",
+      "city_name": "香港市",
+      "code": ""
+    },
+    {
+      "province_name": "其他",
+      "city_name": "澳门市",
+      "code": "macau"
+    },
+    {
+      "province_name": "其他",
+      "city_name": "台湾市",
+      "code": ""
+    },
+    {
+      "province_name": "其他",
+      "city_name": "新加坡市",
+      "code": ""
+    },
+    {
+      "province_name": "其他",
+      "city_name": "温哥华市",
+      "code": ""
+    }
+  ]
+}
