@@ -1,0 +1,224 @@
+[
+  {
+    "name": "北京",
+    "href": "https:\/\/bj.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "bj",
+    "header": "https"
+  },
+  {
+    "name": "成都",
+    "href": "https:\/\/cd.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "cd",
+    "header": "https"
+  },
+  {
+    "name": "重庆",
+    "href": "https:\/\/cq.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "cq",
+    "header": "https"
+  },
+  {
+    "name": "长沙",
+    "href": "https:\/\/cs.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "cs",
+    "header": "https"
+  },
+  {
+    "name": "大连",
+    "href": "https:\/\/dl.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "dl",
+    "header": "https"
+  },
+  {
+    "name": "东莞",
+    "href": "https:\/\/dg.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "dg",
+    "header": "https"
+  },
+  {
+    "name": "佛山",
+    "href": "https:\/\/fs.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "fs",
+    "header": "https"
+  },
+  {
+    "name": "广州",
+    "href": "https:\/\/gz.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "gz",
+    "header": "https"
+  },
+  {
+    "name": "杭州",
+    "href": "https:\/\/hz.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "hz",
+    "header": "https"
+  },
+  {
+    "name": "惠州",
+    "href": "https:\/\/hui.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "hui",
+    "header": "https"
+  },
+  {
+    "name": "海口",
+    "href": "http:\/\/hk.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "hk",
+    "header": "http"
+  },
+  {
+    "name": "合肥",
+    "href": "https:\/\/hf.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "hf",
+    "header": "https"
+  },
+  {
+    "name": "济南",
+    "href": "https:\/\/jn.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "jn",
+    "header": "https"
+  },
+  {
+    "name": "昆明",
+    "href": "http:\/\/you.lianjia.com\/km\/xiaoqu\/pg1\/",
+    "code": "you",
+    "header": "http"
+  },
+  {
+    "name": "陵水",
+    "href": "http:\/\/ls.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "ls",
+    "header": "http"
+  },
+  {
+    "name": "廊坊",
+    "href": "https:\/\/lf.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "lf",
+    "header": "https"
+  },
+  {
+    "name": "南京",
+    "href": "https:\/\/nj.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "nj",
+    "header": "https"
+  },
+  {
+    "name": "青岛",
+    "href": "https:\/\/qd.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "qd",
+    "header": "https"
+  },
+  {
+    "name": "琼海",
+    "href": "http:\/\/qh.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "qh",
+    "header": "http"
+  },
+  {
+    "name": "上海",
+    "href": "http:\/\/sh.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "sh",
+    "header": "http"
+  },
+  {
+    "name": "深圳",
+    "href": "https:\/\/sz.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "sz",
+    "header": "https"
+  },
+  {
+    "name": "苏州",
+    "href": "http:\/\/su.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "su",
+    "header": "http"
+  },
+  {
+    "name": "石家庄",
+    "href": "http:\/\/sjz.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "sjz",
+    "header": "http"
+  },
+  {
+    "name": "沈阳",
+    "href": "https:\/\/sy.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "sy",
+    "header": "https"
+  },
+  {
+    "name": "三亚",
+    "href": "http:\/\/san.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "san",
+    "header": "http"
+  },
+  {
+    "name": "天津",
+    "href": "https:\/\/tj.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "tj",
+    "header": "https"
+  },
+  {
+    "name": "太原",
+    "href": "http:\/\/ty.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "ty",
+    "header": "http"
+  },
+  {
+    "name": "武汉",
+    "href": "https:\/\/wh.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "wh",
+    "header": "https"
+  },
+  {
+    "name": "无锡",
+    "href": "http:\/\/wx.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "wx",
+    "header": "http"
+  },
+  {
+    "name": "文昌",
+    "href": "http:\/\/wc.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "wc",
+    "header": "http"
+  },
+  {
+    "name": "万宁",
+    "href": "http:\/\/wn.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "wn",
+    "header": "http"
+  },
+  {
+    "name": "厦门",
+    "href": "https:\/\/xm.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "xm",
+    "header": "https"
+  },
+  {
+    "name": "西安",
+    "href": "http:\/\/xa.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "xa",
+    "header": "http"
+  },
+  {
+    "name": "西双版纳",
+    "href": "http:\/\/you.lianjia.com\/xsbn\/xiaoqu\/pg1\/",
+    "code": "you",
+    "header": "http"
+  },
+  {
+    "name": "烟台",
+    "href": "https:\/\/yt.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "yt",
+    "header": "https"
+  },
+  {
+    "name": "中山",
+    "href": "https:\/\/zs.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "zs",
+    "header": "https"
+  },
+  {
+    "name": "珠海",
+    "href": "https:\/\/zh.lianjia.com\/xiaoqu\/pg1\/",
+    "code": "zh",
+    "header": "https"
+  }
+]

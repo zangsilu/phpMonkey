@@ -3,7 +3,7 @@
     {
       "province_name": "直辖市",
       "city_name": "北京市",
-      "code": ""
+      "code": "bj"
     },
     {
       "province_name": "直辖市",
@@ -2341,6 +2341,7 @@
       "code": "xf"
     }
   ],
+
   "广西": [
     {
       "province_name": "广西",

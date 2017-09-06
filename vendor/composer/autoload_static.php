@@ -6,10 +6,18 @@ namespace Composer\Autoload;
 
 class ComposerStaticInit6ea259088cde95f2717fb6cd064282ed
 {
+    public static $files = array (
+        'e9b046393eb3376a21bcc1a30bd2fe64' => __DIR__ . '/..' . '/querypath/querypath/src/qp_functions.php',
+    );
+
     public static $prefixLengthsPsr4 = array (
         'p' => 
         array (
             'phpspider\\' => 10,
+        ),
+        'M' => 
+        array (
+            'Masterminds\\' => 12,
         ),
     );
 
@@ -18,6 +26,20 @@ class ComposerStaticInit6ea259088cde95f2717fb6cd064282ed
         array (
             0 => __DIR__ . '/..' . '/owner888/phpspider',
         ),
+        'Masterminds\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/masterminds/html5/src',
+        ),
+    );
+
+    public static $prefixesPsr0 = array (
+        'Q' => 
+        array (
+            'QueryPath' => 
+            array (
+                0 => __DIR__ . '/..' . '/querypath/querypath/src',
+            ),
+        ),
     );
 
     public static function getInitializer(ClassLoader $loader)
@@ -25,6 +47,7 @@ class ComposerStaticInit6ea259088cde95f2717fb6cd064282ed
         return \Closure::bind(function () use ($loader) {
             $loader->prefixLengthsPsr4 = ComposerStaticInit6ea259088cde95f2717fb6cd064282ed::$prefixLengthsPsr4;
             $loader->prefixDirsPsr4 = ComposerStaticInit6ea259088cde95f2717fb6cd064282ed::$prefixDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInit6ea259088cde95f2717fb6cd064282ed::$prefixesPsr0;
 
         }, null, ClassLoader::class);
     }

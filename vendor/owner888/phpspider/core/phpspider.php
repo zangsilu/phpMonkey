@@ -494,14 +494,12 @@ class phpspider
             $link['url_type'] = 'list_page';
             $status = $this->queue_lpush($link);
         }
-
         if ($this->is_content_page($url))
         {
             $link['url_type'] = 'content_page';
             $status = $this->queue_lpush($link);
         }
-
-        if ($status) 
+        if ($status)
         {
             if ($link['url_type'] == 'scan_page') 
             {

@@ -36,11 +36,11 @@ class cls_redis
 
     public static function init()
     {
-        if (!extension_loaded("redis"))
-        {
-            self::$error = "The redis extension was not found";
-            return false;
-        }
+//        if (!extension_loaded("redis"))
+//        {
+//            self::$error = "The redis extension was not found";
+//            return false;
+//        }
 
         // 获取配置
         $config = self::$link_name == 'default' ? self::_get_default_config() : self::$configs[self::$link_name];

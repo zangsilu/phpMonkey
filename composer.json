@@ -1,5 +1,6 @@
 {
     "require": {
-        "owner888/phpspider": "^2.0"
+        "owner888/phpspider": "^2.0",
+        "querypath/QueryPath": ">=3.0.0"
     }
 }

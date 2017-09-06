@@ -242,7 +242,7 @@ class requests
     /**
      * 设置伪造IP
      * 传入数组则为随机IP
-     * @param string $ip
+     * @param string array $ip
      * @return void
      */
     public static function set_client_ip($ip)
@@ -704,6 +704,7 @@ class requests
         {
             $key = rand(0, count(self::$proxies) - 1);
             $proxy = self::$proxies[$key];
+
             curl_setopt( self::$ch, CURLOPT_PROXY, $proxy );
         }
 

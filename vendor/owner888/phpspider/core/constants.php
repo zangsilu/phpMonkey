@@ -29,10 +29,10 @@ if (intval(ini_get("memory_limit")) < 1024)
     ini_set('memory_limit', '1024M');
 }
 
-if( PHP_SAPI != 'cli' )
-{
-    exit("You must run the CLI environment\n");
-}
+//if( PHP_SAPI != 'cli' )
+//{
+//    exit("You must run the CLI environment\n");
+//}
 
 // Date.timezone
 if (!ini_get('date.timezone')) 

@@ -1,0 +1,1647 @@
+2017-08-28 11:53:45 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("上海康城","40082
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.362808, 31.10631595, \'上海康城\']","莘松路958弄（大浪湾道01-61号、山林道04-96号、江山道01-23号、瀑布湾道21-96号、维园道01-45号、康城道51-82）","上海市","闵行","莘庄","
+                                        	
+                                        		2001~2009年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                盛孚物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		闵行房地产
+                                        	
+                                        	
+                                            
+                                        ","199","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市闵行莘松路958弄（大浪湾道01-61号、山林道04-96号、江山道01-23号、瀑布湾道21-96号、维园道01-45号、康城道51-82）","121.362808"," 31.10631595")
+2017-08-28 11:53:45 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:45 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("奥林匹克花园","47412
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.3362569, 31.15272248, \'奥林匹克花园\']","涞亭北路99弄,涞寅路106弄","上海市","松江","九亭","
+                                        	
+                                        		1999~2010年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海奥林匹克物业管理有限公司
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海奥林匹克置业投资有限公司
+                                        	
+                                        	
+                                            
+                                        ","145","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市松江涞亭北路99弄,涞寅路106弄","121.3362569"," 31.15272248")
+2017-08-28 11:53:45 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:45 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("中远两湾城","72449
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.451405, 31.259226, \'中远两湾城\']","远景路97弄、中潭路100弄（四期）, 远景路97弄，中潭路100弄，中潭路99弄（一期）, 中潭路99弄79-159号，中潭路100弄78-156号（二期）, 中潭路33弄07～15号，中潭路99弄189~241号，中潭路91弄01~59号（三期）","上海市","普陀","中远两湾城","
+                                        	
+                                        		2001~2006年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海中远物业管理发展有限公司
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海万业企业股份有限公司
+                                        	
+                                        	
+                                            
+                                        ","112","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市普陀远景路97弄、中潭路100弄（四期）, 远景路97弄，中潭路100弄，中潭路99弄（一期）, 中潭路99弄79-159号，中潭路100弄78-156号（二期）, 中潭路33弄07～15号，中潭路99弄189~241号，中潭路91弄01~59号（三期）","121.451405"," 31.259226")
+2017-08-28 11:53:45 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:46 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("证大家园（公寓）","78080
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.6028134, 31.28632734, \'证大家园（公寓）\']","五莲路1728弄，巨峰路399弄，五莲路1769弄，利津路1313弄，巨峰路667弄","上海市","浦东","金桥","
+                                        	
+                                        		2002~2006年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                科瑞物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海大业房地产开发有限公司
+                                        	
+                                        	
+                                            
+                                        ","100","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市浦东五莲路1728弄，巨峰路399弄，五莲路1769弄，利津路1313弄，巨峰路667弄","121.6028134"," 31.28632734")
+2017-08-28 11:53:46 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:47 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("绿庭尚城","46566
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.31917, 31.153101, \'绿庭尚城\']","涞寅路658弄","上海市","松江","九亭","
+                                        	
+                                        		2008~2013年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海复瑞物业管理有限公司、上海复瑞物业管理有限公司、富瑞物业
+                                            
+                                            
+                                            
+                                                <div class=\"hover-square\">
+                                                        上海复瑞物业管理有限公司<br/>上海复瑞物业管理有限公司<br/>富瑞物业
+                                                </div>
+                                            
+                                        ","
+                                        	
+                                        		上海绿庭房地产开发有限公司、上海绿庭集团有限公司
+                                        	
+                                        	
+                                            
+                                                <div class=\"hover-square\">
+                                                        上海绿庭房地产开发有限公司<br/>上海绿庭集团有限公司
+                                                </div>
+                                            
+                                        ","85","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市松江涞寅路658弄","121.31917"," 31.153101")
+2017-08-28 11:53:47 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:47 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("九城湖滨国际","50928
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.32503, 31.155467, \'九城湖滨国际\']","沪亭北路618弄","上海市","松江","九亭","
+                                        	
+                                        		2007~2009年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海采林物业管理有限公司、采林物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海九城置业有限公司
+                                        	
+                                        	
+                                            
+                                        ","85","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市松江沪亭北路618弄","121.32503"," 31.155467")
+2017-08-28 11:53:47 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:47 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("万科假日风景（公寓）","65476
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.409339, 31.109448, \'万科假日风景（公寓）\']","畹町路99弄,畹町路100弄","上海市","闵行","莘庄","
+                                        	
+                                        		2002~2006年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海万科物业管理有限公司、万科物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海万科房地产有限公司
+                                        	
+                                        	
+                                            
+                                        ","77","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市闵行畹町路99弄,畹町路100弄","121.409339"," 31.109448")
+2017-08-28 11:53:47 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:47 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("保利西子湾","45191
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.241032, 31.066142, \'保利西子湾\']","广富林路1188弄","上海市","松江","松江大学城","
+                                        	
+                                        		2008~2010年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海保利物业管理、保利物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海城乾房地产开发有限公司
+                                        	
+                                        	
+                                            
+                                        ","76","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市松江广富林路1188弄","121.241032"," 31.066142")
+2017-08-28 11:53:47 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:48 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("世茂滨江花园","94785
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.520399, 31.227414, \'世茂滨江花园\']","潍坊西路1弄,潍坊西路2弄","上海市","浦东","陆家嘴","
+                                        	
+                                        		2009年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海世茂第一太平物业管理有限公司、世茂物业
+                                            
+                                            
+                                            
+                                                <div class=\"hover-square\">
+                                                        上海世茂第一太平物业管理有限公司<br/>世茂物业
+                                                </div>
+                                            
+                                        ","
+                                        	
+                                        		上海世茂房地产有限公司、世茂集团
+                                        	
+                                        	
+                                            
+                                        ","75","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市浦东潍坊西路1弄,潍坊西路2弄","121.520399"," 31.227414")
+2017-08-28 11:53:48 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:48 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("三花现代城","64825
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.479561, 31.324675, \'三花现代城\']","云西路168弄,云西路219弄,高跃路133弄","上海市","宝山","高境","
+                                        	
+                                        		2007~2014年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海凯仕顿物业管理有限公司
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海境逸房地产有限公司
+                                        	
+                                        	
+                                            
+                                        ","72","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市宝山云西路168弄,云西路219弄,高跃路133弄","121.479561"," 31.324675")
+2017-08-28 11:53:48 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:49 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("夏朵园","36619
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.403224, 31.030128, \'夏朵园\']","银春路1799弄","上海市","闵行","老闵行","
+                                        	
+                                        		2006~2008年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海农工商旺都物业管理有限公司
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		鸿丰房地产（上海）有限公司
+                                        	
+                                        	
+                                            
+                                        ","71","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市闵行银春路1799弄","121.403224"," 31.030128")
+2017-08-28 11:53:49 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:49 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("绿地康桥新苑","50102
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.571294, 31.144155, \'绿地康桥新苑\']","沪南路2688弄","上海市","浦东","康桥","
+                                        	
+                                        		2004~2007年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海绿地物业服务有限公司、银顺物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海康宸房地产开发有限公司
+                                        	
+                                        	
+                                            
+                                        ","70","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市浦东沪南路2688弄","121.571294"," 31.144155")
+2017-08-28 11:53:49 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:49 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("红旗四街坊","37085
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.4051923, 31.01854442, \'红旗四街坊\']","景谷路176弄,景谷路192弄,景谷路206弄,景谷路265弄,碧江路502弄,凤庆路1061弄","上海市","闵行","老闵行","
+                                        	
+                                        		1987~2004年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                小荷物业、上海合生物业管理有限公司
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海龙盟房地产开发有限公司
+                                        	
+                                        	
+                                            
+                                        ","69","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市闵行景谷路176弄,景谷路192弄,景谷路206弄,景谷路265弄,碧江路502弄,凤庆路1061弄","121.4051923"," 31.01854442")
+2017-08-28 11:53:49 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:49 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("高兴花园","52578
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.409033, 31.117302, \'高兴花园\']","莘朱路863弄,莘朱路879弄","上海市","闵行","春申","
+                                        	
+                                        		1996~1998年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                高兴物业、中城物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海高兴房地产发展有限公司
+                                        	
+                                        	
+                                            
+                                        ","67","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市闵行莘朱路863弄,莘朱路879弄","121.409033"," 31.117302")
+2017-08-28 11:53:49 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:50 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("浦江东旭公寓","52233
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.591033, 31.29739, \'浦江东旭公寓\']","东靖路626弄,东靖路669弄,莱阳路1443弄","上海市","浦东","金桥","
+                                        	
+                                        		2006~2009年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海市浦东新区高桥物业发展公司、高桥物业、上海实业
+                                            
+                                            
+                                            
+                                                <div class=\"hover-square\">
+                                                        上海市浦东新区高桥物业发展公司<br/>高桥物业<br/>上海实业
+                                                </div>
+                                            
+                                        ","
+                                        	
+                                        		上海虹阳置业有限公司
+                                        	
+                                        	
+                                            
+                                        ","64","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市浦东东靖路626弄,东靖路669弄,莱阳路1443弄","121.591033"," 31.29739")
+2017-08-28 11:53:50 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:50 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("浦发绿城","52489
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.548636, 31.156052, \'浦发绿城\']","西泰林路750弄,西泰林路850弄,西泰林路901弄,永泰路1960弄,永泰路2079弄,永泰路2080弄,浦三路2801弄,东泰林路799弄","上海市","浦东","三林","
+                                        	
+                                        		2004~2005年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海浦华物业管理有限公司、上海浦发物业有限公司、浦华物业
+                                            
+                                            
+                                            
+                                                <div class=\"hover-square\">
+                                                        上海浦华物业管理有限公司<br/>上海浦发物业有限公司<br/>浦华物业
+                                                </div>
+                                            
+                                        ","
+                                        	
+                                        		浦东房地产开发公司、上海浦东开发公司
+                                        	
+                                        	
+                                            
+                                        ","64","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市浦东西泰林路750弄,西泰林路850弄,西泰林路901弄,永泰路1960弄,永泰路2079弄,永泰路2080弄,浦三路2801弄,东泰林路799弄","121.548636"," 31.156052")
+2017-08-28 11:53:50 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:51 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("三湘四季花城","49247
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.233711, 31.060553, \'三湘四季花城\']","广富林路1599弄,梅家浜路1508弄","上海市","松江","松江大学城","
+                                        	
+                                        		2006~2010年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海三湘物业管理有限公司、三湘物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海城光置业有限公司
+                                        	
+                                        	
+                                            
+                                        ","64","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市松江广富林路1599弄,梅家浜路1508弄","121.233711"," 31.060553")
+2017-08-28 11:53:51 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:51 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("绿地威廉公寓","60571
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.619963, 31.297808, \'绿地威廉公寓\']","东靖路2250弄","上海市","浦东","高行","
+                                        	
+                                        		2005~2013年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海圣维仕物业管理有限公司、圣维仕物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		绿城集团
+                                        	
+                                        	
+                                            
+                                        ","64","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市浦东东靖路2250弄","121.619963"," 31.297808")
+2017-08-28 11:53:51 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:53:51 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("中大九里德（公寓）","49565
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.3111302, 31.15857918, \'中大九里德（公寓）\']","涞坊路650弄,九杜路1000弄","上海市","松江","九亭","
+                                        	
+                                        		2008~2011年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海怡东物业管理有限公司、上房物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海中大亮桥房地产有限公司
+                                        	
+                                        	
+                                            
+                                        ","62","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市松江涞坊路650弄,九杜路1000弄","121.3111302"," 31.15857918")
+2017-08-28 11:53:51 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:19 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("莱顿小城","37557
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.252759, 31.071153, \'莱顿小城\']","辰花路839弄","上海市","松江","松江大学城","
+                                        	
+                                        		2006~2014年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海谐扬物业管理有限公司、谐扬物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海冠华房地产有限公司
+                                        	
+                                        	
+                                            
+                                        ","62","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市松江辰花路839弄","121.252759"," 31.071153")
+2017-08-28 11:54:19 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:19 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("共富一村","43084
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.4365694, 31.3586347, \'共富一村\']","共富一村,共富路99弄","上海市","宝山","共富","
+                                        	
+                                        		1995~2006年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海顾村物业管理有限公司、上海富锦物业管理有限公司
+                                            
+                                            
+                                            
+                                                <div class=\"hover-square\">
+                                                        上海顾村物业管理有限公司<br/>上海富锦物业管理有限公司
+                                                </div>
+                                            
+                                        ","
+                                        	
+                                        		上海顾村房地产开发(集团)有限公司
+                                        	
+                                        	
+                                            
+                                        ","61","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市宝山共富一村,共富路99弄","121.4365694"," 31.3586347")
+2017-08-28 11:54:19 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:20 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("新城金郡","41101
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.2462989, 31.34873307, \'新城金郡\']","临泽路88弄, 临泽路89弄, 临泽路188弄, 临泽路189弄, 云屏路1399弄, 崇信路1518弄, 白银路1565号, 白银路1563号, 云屏路1520弄, 白银路1310弄","上海市","嘉定","嘉定新城","
+                                        	
+                                        		2010~2013年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                江苏新城物业服务有限公司上海分公司
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海新城创佳置业有限公司
+                                        	
+                                        	
+                                            
+                                        ","60","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市嘉定临泽路88弄, 临泽路89弄, 临泽路188弄, 临泽路189弄, 云屏路1399弄, 崇信路1518弄, 白银路1565号, 白银路1563号, 云屏路1520弄, 白银路1310弄","121.2462989"," 31.34873307")
+2017-08-28 11:54:20 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:20 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("仁恒河滨城","100831
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.57339, 31.234586, \'仁恒河滨城\']","丁香路1399弄，丁香路1299弄，丁香路1599弄","上海市","浦东","联洋","
+                                        	
+                                        		2005~2009年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海仁恒物业管理有限公司、仁恒物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海仁恒房地产有限公司、仁恒置业
+                                        	
+                                        	
+                                            
+                                        ","59","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市浦东丁香路1399弄，丁香路1299弄，丁香路1599弄","121.57339"," 31.234586")
+2017-08-28 11:54:20 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:21 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("美林小城","51509
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.57021, 31.120979, \'美林小城\']","沪南路3468弄","上海市","浦东","康桥","
+                                        	
+                                        		2005~2007年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海轻工物业管理有限公司、世德物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海康星房地产开发有限公司
+                                        	
+                                        	
+                                            
+                                        ","59","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市浦东沪南路3468弄","121.57021"," 31.120979")
+2017-08-28 11:54:21 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:21 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("万科城市花园","50477
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.3513579, 31.16664947, \'万科城市花园\']","七莘路3333弄2区-15区","上海市","闵行","七宝","
+                                        	
+                                        		1994~1998年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海万科物业管理有限公司、万科物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海万科房地产有限公司
+                                        	
+                                        	
+                                            
+                                        ","59","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市闵行七莘路3333弄2区-15区","121.3513579"," 31.16664947")
+2017-08-28 11:54:21 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:21 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("大华颐和华城（公寓）","67973
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.407084, 31.282936, \'大华颐和华城（公寓）\']","武威东路477弄,武威东路478弄,武威东路479弄,真金路577弄","上海市","普陀","万里","
+                                        	
+                                        		2004~2013年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海大华物业有限公司、大华物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海颐和房地产有限公司、上海颐和置业有限公司
+                                        	
+                                        	
+                                            
+                                                <div class=\"hover-square\">
+                                                        上海颐和房地产有限公司<br/>上海颐和置业有限公司
+                                                </div>
+                                            
+                                        ","59","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市普陀武威东路477弄,武威东路478弄,武威东路479弄,真金路577弄","121.407084"," 31.282936")
+2017-08-28 11:54:21 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:21 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("爱庐世纪新苑","46814
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.4279039, 31.08643392, \'爱庐世纪新苑\']","沪光路39弄","上海市","闵行","颛桥","
+                                        	
+                                        		2007~2008年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海东慧庄园物业管理有限公司
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海爱坤置业有限公司
+                                        	
+                                        	
+                                            
+                                        ","58","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市闵行沪光路39弄","121.4279039"," 31.08643392")
+2017-08-28 11:54:21 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:22 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("银都新村（1至7区）","48190
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.4027955, 31.10103285, \'银都新村（1至7区）\']","银都路3118弄1-7区","上海市","闵行","颛桥","
+                                        	
+                                        		1994~2000年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海益镇物业管理有限公司、上海益镇物业管理有限公司
+                                            
+                                            
+                                            
+                                                <div class=\"hover-square\">
+                                                        上海益镇物业管理有限公司<br/>上海益镇物业管理有限公司
+                                                </div>
+                                            
+                                        ","
+                                        	
+                                        		颛桥房地产
+                                        	
+                                        	
+                                            
+                                        ","58","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市闵行银都路3118弄1-7区","121.4027955"," 31.10103285")
+2017-08-28 11:54:22 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:23 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("绿洲香岛花园","41041
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.353117, 31.105887, \'绿洲香岛花园\']","莘松路1288弄1201-12227号（三期）, 莘松路1288弄1228-1263号（四期）, 莘松路1288弄1263-1287号（五期）","上海市","松江","莘闵别墅","
+                                        	
+                                        		2004~2010年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海上置物业管理有限公司、上置物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海绿洲花园置业有限公司、绿洲置业
+                                        	
+                                        	
+                                            
+                                        ","57","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市松江莘松路1288弄1201-12227号（三期）, 莘松路1288弄1228-1263号（四期）, 莘松路1288弄1263-1287号（五期）","121.353117"," 31.105887")
+2017-08-28 11:54:23 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:23 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("慧芝湖花园","89733
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.465689, 31.28813, \'慧芝湖花园\']","平型关路1083弄（一、二期）,平型关路1088弄（三期）,平型关路1018号","上海市","闸北","大宁","
+                                        	
+                                        		2007~2012年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上实物业管理有限公司、上海上实物业管理有限公司、上实物业
+                                            
+                                            
+                                            
+                                                <div class=\"hover-square\">
+                                                        上实物业管理有限公司<br/>上海上实物业管理有限公司<br/>上实物业
+                                                </div>
+                                            
+                                        ","
+                                        	
+                                        		嘉华(中国)投资有限公司、香港嘉华集团
+                                        	
+                                        	
+                                            
+                                        ","57","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市闸北平型关路1083弄（一、二期）,平型关路1088弄（三期）,平型关路1018号","121.465689"," 31.28813")
+2017-08-28 11:54:23 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:23 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("三盛颐景园（公寓）","43210
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.346888, 31.128742, \'三盛颐景园（公寓）\']","涞亭南路888弄","上海市","松江","九亭","
+                                        	
+                                        		2002~2008年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海三盛颐景园物业管理有限公司三盛管理处、三盛物业管理有限公司
+                                            
+                                            
+                                            
+                                                <div class=\"hover-square\">
+                                                        上海三盛颐景园物业管理有限公司三盛管理处<br/>三盛物业管理有限公司
+                                                </div>
+                                            
+                                        ","
+                                        	
+                                        		上海三盛宏业投资(集团)有限责任公司、上海三盛开发有限公司
+                                        	
+                                        	
+                                            
+                                                <div class=\"hover-square\">
+                                                        上海三盛宏业投资(集团)有限责任公司<br/>上海三盛开发有限公司
+                                                </div>
+                                            
+                                        ","57","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市松江涞亭南路888弄","121.346888"," 31.128742")
+2017-08-28 11:54:23 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:24 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("航华一村","47887
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.3624675, 31.18250242, \'航华一村\']","航华一村一街坊,航华一村二街坊","上海市","闵行","航华","
+                                        	
+                                        		1993~2005年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                航华物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		航东地产
+                                        	
+                                        	
+                                            
+                                        ","56","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市闵行航华一村一街坊,航华一村二街坊","121.3624675"," 31.18250242")
+2017-08-28 11:54:24 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:24 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("凤城三村","62605
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.523864, 31.28626, \'凤城三村\']","凤城三村,长岭路75弄,延吉西路80弄,黄兴路1413弄","上海市","杨浦","控江路","
+                                        	
+                                        		1956~2011年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海四平物业管理有限公司、卫百辛物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海卫百辛房地产经纪有限公司、卫百辛集团
+                                        	
+                                        	
+                                            
+                                        ","56","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市杨浦凤城三村,长岭路75弄,延吉西路80弄,黄兴路1413弄","121.523864"," 31.28626")
+2017-08-28 11:54:24 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:24 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("绿洲康城亲水湾（中央区）","55543
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.590724, 31.158247, \'绿洲康城亲水湾（中央区）\']","康桥路1558弄","上海市","浦东","御桥","
+                                        	
+                                        		2007~2015年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海中远物业管理发展有限公司
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海振龙房地产开发有限公司
+                                        	
+                                        	
+                                            
+                                        ","55","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市浦东康桥路1558弄","121.590724"," 31.158247")
+2017-08-28 11:54:24 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:24 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("市光四村","57254
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.5425583, 31.32581719, \'市光四村\']","市光四村","上海市","杨浦","中原","
+                                        	
+                                        		1990~1996年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海恒联物业有限公司、恒联物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		中元房地产开发有限公司
+                                        	
+                                        	
+                                            
+                                        ","53","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市杨浦市光四村","121.5425583"," 31.32581719")
+2017-08-28 11:54:24 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:24 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("上海源花城","43282
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.310627, 31.147636, \'上海源花城\']","涞寅路1200弄","上海市","松江","九亭","
+                                        	
+                                        		2006~2008年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海北方物业管理有限公司、上海复瑞物业管理有限公司、复瑞公司
+                                            
+                                            
+                                            
+                                                <div class=\"hover-square\">
+                                                        上海北方物业管理有限公司<br/>上海复瑞物业管理有限公司<br/>复瑞公司
+                                                </div>
+                                            
+                                        ","
+                                        	
+                                        		上海伯骏置业有限公司
+                                        	
+                                        	
+                                            
+                                        ","53","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市松江涞寅路1200弄","121.310627"," 31.147636")
+2017-08-28 11:54:24 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:25 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("共富二村","43286
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.437777, 31.353984, \'共富二村\']","共富二村","上海市","宝山","共富","
+                                        	
+                                        		1995~2006年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海泰发物业发展公司
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海宝发房地产开发有限公司
+                                        	
+                                        	
+                                            
+                                        ","53","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市宝山共富二村","121.437777"," 31.353984")
+2017-08-28 11:54:25 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:26 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("鹤北新村","43930
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.426096, 31.017958, \'鹤北新村\']","鹤庆路136弄","上海市","闵行","老闵行","
+                                        	
+                                        		1993~2001年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海鑫闵物业管理公司
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海闵行房地产发展有限公司、闵行房地产
+                                        	
+                                        	
+                                            
+                                        ","53","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市闵行鹤庆路136弄","121.426096"," 31.017958")
+2017-08-28 11:54:26 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:26 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("龙源星城","26071
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.790281, 31.052738, \'龙源星城\']","人民东路22弄","上海市","浦东","惠南","
+                                        	
+                                        		2001年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                东土物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		东土集团有限公司
+                                        	
+                                        	
+                                            
+                                        ","52","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市浦东人民东路22弄","121.790281"," 31.052738")
+2017-08-28 11:54:26 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:54:27 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("江南星城","67310
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.393657, 31.142667, \'江南星城\']","顾戴路1199弄（一期）,顾戴路1325弄（二期）","上海市","闵行","古美","
+                                        	
+                                        		2004~2005年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                上海中星（集团）有限公司、中星物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		上海中星（集团）有限公司、中星集团
+                                        	
+                                        	
+                                            
+                                        ","52","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市闵行顾戴路1199弄（一期）,顾戴路1325弄（二期）","121.393657"," 31.142667")
+2017-08-28 11:54:27 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 226 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 232 
+2017-08-28 11:56:12 [Warning] Query SQL: Insert Ignore Into `system_gathering_place2` (`name`,`on_the_average`,`coordinate`,`location`,`city_name`,`area_name`,`street_name`,`built_year`,`property_company`,`property_developer`,`houses_total`,`property_management_fee_detail`,`type`,`location_detail`,`coordinate_y`,`coordinate_x`) Values ("上海康城","40082
+                                                
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            ","[121.362808, 31.10631595, \'上海康城\']","莘松路958弄（大浪湾道01-61号、山林道04-96号、江山道01-23号、瀑布湾道21-96号、维园道01-45号、康城道51-82）","上海市","闵行","莘庄","
+                                        	
+                                        		2001~2009年
+                                        	
+                                        	
+                                        ","
+                                            
+                                                盛孚物业
+                                            
+                                            
+                                            
+                                        ","
+                                        	
+                                        		闵行房地产
+                                        	
+                                        	
+                                            
+                                        ","199","
+                                        	
+                                        	
+                                        		暂无信息
+                                        	
+										","小区","上海市闵行莘松路958弄（大浪湾道01-61号、山林道04-96号、江山道01-23号、瀑布湾道21-96号、维园道01-45号、康城道51-82）","121.362808"," 31.10631595")
+2017-08-28 11:56:12 [Warning] Error SQL: Unknown column 'coordinate' in 'field list'
+debug_backtrace：
+[0] in function phpspider\core\db::insert  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 220 
+[1] in function {closure} 
+[2] in function call_user_func  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1683 
+[3] in function phpspider\core\phpspider->get_html_fields  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1191 
+[4] in function phpspider\core\phpspider->collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 1029 
+[5] in function phpspider\core\phpspider->do_collect_page  in D:\data\xampp\htdocs\phpMonkey\vendor\owner888\phpspider\core\phpspider.php  on line 955 
+[6] in function phpspider\core\phpspider->start  in D:\data\xampp\htdocs\phpMonkey\lianjia\index.php  on line 227 
